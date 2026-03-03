@@ -19,6 +19,10 @@
 
 # Website Distribution
 
+## CloudFront Distribution state column
+### CloudFront status : Enabled 
+#### Distribution Id : E2B45DQEMLCKID
+![cloudfront_enabled_status.png](/website_distribution/cloudfront_enabled_status.png)
 
 ## Cloudfront
 ![cloudfront.png](website_distribution/cloudfront.png)
